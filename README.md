@@ -15,3 +15,5 @@ There are two version in this plugin:
 Lite version is publishing to the UnrealEngine Store.
 
 And Pro version is developing.
+
+More details, please go to [the wiki page](https://github.com/zjjgogogo/CyberCrypto/wiki)
